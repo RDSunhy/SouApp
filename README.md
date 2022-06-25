@@ -15,4 +15,4 @@
 
 ### 展示
 
-<img src="file:///D:/WorkSpace/Project/MySelfProject/talking/SouApp/img/img1.jpg" title="" alt="" width="200"><img src="file:///D:/WorkSpace/Project/MySelfProject/talking/SouApp/img/img2.jpg" title="" alt="" width="200"><img src="file:///D:/WorkSpace/Project/MySelfProject/talking/SouApp/img/img3.jpg" title="" alt="" width="200"><img src="file:///D:/WorkSpace/Project/MySelfProject/talking/SouApp/img/img4.jpg" title="" alt="" width="200">
+<img src="./img/img1.jpg" title="" alt="" width="200"><img src="./img/img2.jpg" title="" alt="" width="200"><img src="./img/img3.jpg" title="" alt="" width="200"><img src="./img/img4.jpg" title="" alt="" width="200">
